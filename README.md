@@ -44,9 +44,9 @@ Minhas linguagens de programação e tecnologias mais usadas em projetos públic
 
 <a href="https://github.com/DevRickLee">
   <img 
-    src="https://stats.devlee.tech/api/top-langs?username=DevRickLee&layout=compact&langs_count=10&card_width=450&theme=dark" 
-    alt="Linguagens mais usadas por DevRickLee" 
-  />
+  src="https://stats.devlee.tech/api/top-langs?username=DevRickLee&layout=compact&langs_count=10&card_width=450&theme=dark&v=1" 
+  alt="Linguagens mais usadas por DevRickLee" 
+/>
 </a>
 
 </div>
